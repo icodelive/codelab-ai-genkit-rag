@@ -31,7 +31,7 @@ export default function Home() {
           href={LEGACY.HOME}
           className="text-background bg-foreground w-full p-3 rounded-xl text-lg text-center font-medium"
         >
-          Find Rusty's Dream Cock
+          Find Rustys Dream Cock
         </Link>
 
         <Link
